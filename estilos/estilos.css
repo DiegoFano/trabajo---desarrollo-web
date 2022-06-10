@@ -589,7 +589,7 @@ p{
 
 
 .botonAnimacion{
-    background-color: rgb(136, 8, 8);
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
     font-size: 150%;
     font-family: 'Lato', sans-serif;
@@ -600,7 +600,6 @@ p{
 
     width: 60px;
     height: 30px;
-    transition: none;
 }
 
 .botonAnimacion:hover{
